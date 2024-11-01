@@ -1,8 +1,8 @@
-black==24.4.2
-flake8==7.1.0
-hypothesis==6.108.5
+black==24.10.0
+flake8==7.1.1
+hypothesis==6.116.0
 mccabe==0.7.0
-pre-commit==3.8.0
-pycodestyle==2.12.0
+pre-commit==4.0.1
+pycodestyle==2.12.1
 pyflakes==3.2.0
-pytest==8.3.2
+pytest==8.3.3
